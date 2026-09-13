@@ -2,3 +2,13 @@
   liscense: "Unknown"
   copyright: "ArmataZ on youtube"
   source: "https://www.youtube.com/watch?v=aBT9tFcuHRM&list=RDaBT9tFcuHRM"
+
+- files: ["Pumpon.ogg"]
+  liscense: "CC-BY-NC-SA-3.0"
+  copyright: "Pump on - vap0r & analog"
+  source: "https://www.youtube.com/watch?v=3TFdomgFjvg"
+
+- files: ["gangsta.ogg"]
+  liscence: "CC-BY-NC-SA-3.0"
+  copyright: "vap0r - gangsta (f1re)"
+  source: "" #todo

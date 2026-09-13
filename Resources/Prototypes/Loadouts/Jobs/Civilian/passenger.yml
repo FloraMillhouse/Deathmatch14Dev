@@ -16,7 +16,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobPassenger
-      time: 20h # fun mantle for the most experienced greytiders
+      time: 1h
 
 # Face
 - type: loadout
@@ -103,13 +103,28 @@
   - !type:GroupLoadoutEffect
     proto: GreyTider
   equipment:
-    gloves: ClothingHandsGlovesFingerlessInsulated
+    gloves: ClothingHandsGlovesColorYellow
+
+- type: loadout
+  id: CombatGloves
+  equipment:
+    gloves: ClothingHandsGlovesCombat
+
+- type: loadout
+  id: MercGloves
+  equipment:
+    gloves: ClothingHandsMercGlovesCombat
 
 # Outerclothing
 - type: loadout
   id: PassengerWintercoat
   equipment:
     outerClothing: ClothingOuterWinterCoat
+
+- type: loadout
+  id: BasicArmor
+  equipment:
+    outerClothing: ClothingOuterArmorBasicSlim
 
 # Shoes
 - type: loadout
