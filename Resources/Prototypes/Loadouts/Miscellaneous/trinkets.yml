@@ -8,6 +8,13 @@
       department: Command
       time: 1h
 
+
+# Gun
+- type: loadout
+  id: Blicky
+  storage:
+    back: WeaponPistolMk58
+
 # Flowers
 - type: loadout
   id: FlowerWreath

@@ -126,6 +126,11 @@
   equipment:
     outerClothing: ClothingOuterArmorBasicSlim
 
+- type: loadout
+  id: BulletArmor
+  equipment:
+    outerClothing: ClothingOuterArmorBulletproof
+
 # Shoes
 - type: loadout
   id: BlackShoes
