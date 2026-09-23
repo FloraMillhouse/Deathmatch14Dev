@@ -15,8 +15,15 @@
     emptySpriteName: meth_empty
   - type: Solution
     solution:
+      maxVol: 70
       reagents:
       - ReagentId: Omnizine
-        Quantity: 50
+        Quantity: 25
       - ReagentId: Epinephrine
-        Quantity: 20
+        Quantity: 5
+      - ReagentId: Methylenedioxystraquinone
+        Quantity: 10
+      - ReagentId: THC
+        Quantity: 15
+      - ReagentId: Hyperzine
+        Quantity: 15
