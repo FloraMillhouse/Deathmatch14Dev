@@ -18,12 +18,6 @@
       maxVol: 70
       reagents:
       - ReagentId: Omnizine
-        Quantity: 25
+        Quantity: 50
       - ReagentId: Epinephrine
-        Quantity: 5
-      - ReagentId: Methylenedioxystraquinone
-        Quantity: 10
-      - ReagentId: THC
-        Quantity: 15
-      - ReagentId: Hyperzine
-        Quantity: 15
+        Quantity: 20
